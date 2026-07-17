@@ -76,7 +76,7 @@ ALIGNED8 static const u8 texture_power_meter_zero_right[] = {
 #else
 
 ALIGNED8 static const u8 texture_power_meter_eight_left[] = {
-#include "actors/power_meter/power_meter_left_side_full.rgba16.inc.c"
+#include "actors/power_meter/pow_meter_left_side_full.rgba16.inc.c"
 };
 
 ALIGNED8 static const u8 texture_power_meter_eight_right[] = {
